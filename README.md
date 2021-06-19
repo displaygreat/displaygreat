@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @displaygreat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Oxana Shvartsman
+- 👀 I’m interested in code and music.
+- 🌱 I’m currently learning fullstack tools: React, Angular, Azure Function, Node.js, Jest, Webpack
+- 💞️ I’m looking to collaborate on awesome projects to serve different users.
+- 📫 How to reach me [oxanashva@gmail.com](oxanashva@gmail.com).
 
 <!---
 displaygreat/displaygreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
