@@ -1,7 +1,7 @@
 - 🍀 Hi, I’m Oxana Shvartsman
 - 👀 I’m interested in code and music.
 - 🛠 My tools for creativity: React, Node.js, HTML/CSS/JS and the piano.
-- 💞 I’m looking to collaborate on awesome projects that people use, love and remember.
+- 💞 I’m looking to collaborate on projects that people use, love and remember.
 - 📧 How to reach me [oxanashva@gmail.com](mailto:oxanashva@gmail.com).
 
 <!---
