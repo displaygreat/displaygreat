@@ -1,7 +1,7 @@
 - 🍀 Hi, I’m Oxana Shvartsman
 - 👀 I’m interested in code and music.
-- 🚀 I’m currently learning React, Angular, Vue, NodeJS... and J.S.Bach The Well-Tempered Clavier.
-- 💞 I’m looking to collaborate on awesome projects to serve different users.
+- 🛠 My tools for creativity: React, Node.js, HTML/CSS/JS and the piano.
+- 💞 I’m looking to collaborate on awesome projects that people use, love and remember.
 - 📧 How to reach me [oxanashva@gmail.com](mailto:oxanashva@gmail.com).
 
 <!---
